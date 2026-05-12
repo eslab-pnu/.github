@@ -1,6 +1,6 @@
-# ESLAB-PNU
+# ESLab @ PNU Dashboard
 
-Pusan National University Embedded Systems Lab GitHub organization.
+ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
 
 ## Start Here
 
