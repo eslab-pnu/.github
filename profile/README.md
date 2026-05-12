@@ -2,11 +2,16 @@
 
 ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
 
-## Start Here
+## Quick Links
 
-- [Lab guidelines](https://github.com/eslab-pnu/lab-guidelines): 연구실 GitHub 운영, 학생 온보딩, 공통 작성 규칙
-- [Lab seminars](https://github.com/eslab-pnu/lab-seminars): 세미나 노트, 발표자료 정리, 학생별 세미나 기록
-- [Project repositories](#project-repositories): 연구실 공동 프로젝트 저장소
+| Category | Repository | Purpose |
+|---|---|---|
+| 운영 | [lab-guidelines](https://github.com/eslab-pnu/lab-guidelines) | 운영 규칙, 권한, 템플릿 |
+| 주간보고 | [lab-weekly-reports](https://github.com/eslab-pnu/lab-weekly-reports) | 구성원 개인별 주간보고 |
+| 회의 | [lab-meetings](https://github.com/eslab-pnu/lab-meetings) | 랩 전체 회의록 |
+| 세미나 | [lab-seminars](https://github.com/eslab-pnu/lab-seminars) | 세미나 기록과 자료 링크 |
+| 공통도구 | [lab-common-tools](https://github.com/eslab-pnu/lab-common-tools) | 공통 코드, 스크립트, 템플릿 |
+| 프로젝트 | [Project repositories](#project-repositories) | 연구실 공동 프로젝트 저장소 |
 
 ## Recent Guideline Updates
 
@@ -38,11 +43,13 @@ ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
 
 ## Project Repositories
 
-- [project-ondevice-slm](https://github.com/eslab-pnu/project-ondevice-slm): On-device SLM research project
-- [project-edge-rag](https://github.com/eslab-pnu/project-edge-rag): Edge RAG systems and experiments
-- [project-mcu-npu-benchmark](https://github.com/eslab-pnu/project-mcu-npu-benchmark): MCU and NPU benchmark experiments
-- [project-speech-edge-ai](https://github.com/eslab-pnu/project-speech-edge-ai): Speech edge AI research and experiments
-- [project-timeseries-anomaly](https://github.com/eslab-pnu/project-timeseries-anomaly): Time-series anomaly detection research and experiments
-- [project-industrial-audio-ad](https://github.com/eslab-pnu/project-industrial-audio-ad): Industrial audio anomaly detection research
-- [project-tiny-vision-models](https://github.com/eslab-pnu/project-tiny-vision-models): Tiny vision models for edge AI
-- [project-crossmodal-distillation](https://github.com/eslab-pnu/project-crossmodal-distillation): Cross-modal distillation research and experiments
+| Repository | Topic |
+|---|---|
+| [project-ondevice-slm](https://github.com/eslab-pnu/project-ondevice-slm) | On-device SLM |
+| [project-edge-rag](https://github.com/eslab-pnu/project-edge-rag) | Edge RAG |
+| [project-mcu-npu-benchmark](https://github.com/eslab-pnu/project-mcu-npu-benchmark) | MCU / NPU Benchmark |
+| [project-speech-edge-ai](https://github.com/eslab-pnu/project-speech-edge-ai) | Speech Edge AI |
+| [project-timeseries-anomaly](https://github.com/eslab-pnu/project-timeseries-anomaly) | Time-series Anomaly Detection |
+| [project-industrial-audio-ad](https://github.com/eslab-pnu/project-industrial-audio-ad) | Industrial Audio Anomaly Detection |
+| [project-tiny-vision-models](https://github.com/eslab-pnu/project-tiny-vision-models) | Tiny Vision Models |
+| [project-crossmodal-distillation](https://github.com/eslab-pnu/project-crossmodal-distillation) | Cross-modal Distillation |
