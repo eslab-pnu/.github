@@ -11,6 +11,7 @@ ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
 | 회의 | [lab-meetings](https://github.com/eslab-pnu/lab-meetings) | 랩 전체 회의록 |
 | 세미나 | [lab-seminars](https://github.com/eslab-pnu/lab-seminars) | 세미나 기록과 자료 링크 |
 | 공통도구 | [lab-common-tools](https://github.com/eslab-pnu/lab-common-tools) | 공통 코드, 스크립트, 템플릿 |
+| 졸업논문 | [graduation-thesis](https://github.com/eslab-pnu/graduation-thesis) | 졸업논문 요약 note와 project repo 매핑 |
 | 프로젝트 | [Project repositories](#project-repositories) | 연구실 공동 프로젝트 저장소 |
 | 개인연구 | [Personal research repositories](#personal-research-repositories) | 개인별 논문연구 저장소 |
 
@@ -53,7 +54,14 @@ ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
 | [project-timeseries-anomaly](https://github.com/eslab-pnu/project-timeseries-anomaly) | Time-series Anomaly Detection |
 | [project-industrial-audio-ad](https://github.com/eslab-pnu/project-industrial-audio-ad) | Industrial Audio Anomaly Detection |
 | [project-tiny-vision-models](https://github.com/eslab-pnu/project-tiny-vision-models) | Tiny Vision Models |
+| [project-mmwave-har](https://github.com/eslab-pnu/project-mmwave-har) | mmWave / Radar HAR Baseline |
 | [project-crossmodal-distillation](https://github.com/eslab-pnu/project-crossmodal-distillation) | Cross-modal Distillation |
+
+## Graduation Thesis
+
+| Repository | Purpose |
+|---|---|
+| [graduation-thesis](https://github.com/eslab-pnu/graduation-thesis) | 졸업논문 note, 주제별 project repo 매핑, baseline 근거 |
 
 ## Personal Research Repositories
 
