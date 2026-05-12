@@ -12,6 +12,7 @@ ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
 | 세미나 | [lab-seminars](https://github.com/eslab-pnu/lab-seminars) | 세미나 기록과 자료 링크 |
 | 공통도구 | [lab-common-tools](https://github.com/eslab-pnu/lab-common-tools) | 공통 코드, 스크립트, 템플릿 |
 | 프로젝트 | [Project repositories](#project-repositories) | 연구실 공동 프로젝트 저장소 |
+| 개인연구 | [Personal research repositories](#personal-research-repositories) | 개인별 논문연구 저장소 |
 
 ## Recent Guideline Updates
 
@@ -53,3 +54,9 @@ ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
 | [project-industrial-audio-ad](https://github.com/eslab-pnu/project-industrial-audio-ad) | Industrial Audio Anomaly Detection |
 | [project-tiny-vision-models](https://github.com/eslab-pnu/project-tiny-vision-models) | Tiny Vision Models |
 | [project-crossmodal-distillation](https://github.com/eslab-pnu/project-crossmodal-distillation) | Cross-modal Distillation |
+
+## Personal Research Repositories
+
+| Repository | Owner | Purpose |
+|---|---|---|
+| [research-yunju](https://github.com/eslab-pnu/research-yunju) | Yunju | Personal research topics, supervision notes, experiments |
