@@ -59,4 +59,4 @@ ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
 
 | Repository | Owner | Purpose |
 |---|---|---|
-| [research-yunju](https://github.com/eslab-pnu/research-yunju) | Yunju | Personal research topics, supervision notes, experiments |
+| [research-yunju](https://github.com/eslab-pnu/research-yunju) | 백윤주 | Personal research topics, supervision notes, experiments |
