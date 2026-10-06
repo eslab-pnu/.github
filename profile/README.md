@@ -1,70 +1,38 @@
-# ESLab @ PNU Dashboard
+# ESLab @ PNU
 
-ESLab @ PNU의 GitHub Organization 내부 대시보드입니다.
+ESLab @ PNU의 연구 주제와 GitHub 저장소 안내다. 연구 자료와 운영 기록은 용도별 저장소에서 관리한다. 비공개 저장소의 문서와 코드는 접근 권한이 있는 구성원이 확인할 수 있다.
 
-## Quick Links
+## 연구 주제
 
-| Category | Repository | Purpose |
-|---|---|---|
-| 운영 | [lab-guidelines](https://github.com/eslab-pnu/lab-guidelines) | 운영 규칙, 권한, 템플릿 |
-| 주간보고 | [lab-weekly-reports](https://github.com/eslab-pnu/lab-weekly-reports) | 구성원 개인별 주간보고 |
-| 회의 | [lab-meetings](https://github.com/eslab-pnu/lab-meetings) | 랩 전체 회의록 |
-| 세미나 | [lab-seminars](https://github.com/eslab-pnu/lab-seminars) | 세미나 기록과 자료 링크 |
-| 공통도구 | [lab-common-tools](https://github.com/eslab-pnu/lab-common-tools) | 공통 코드, 스크립트, 템플릿 |
-| 졸업논문 | [graduation-thesis](https://github.com/eslab-pnu/graduation-thesis) | 졸업논문 요약 note와 project repo 매핑 |
-| 프로젝트 | [Project repositories](#project-repositories) | 연구실 공동 프로젝트 저장소 |
-| 개인연구 | [Personal research repositories](#personal-research-repositories) | 개인별 논문연구 저장소 |
-
-## Recent Guideline Updates
-
-- [Seminar AI output template](https://github.com/eslab-pnu/lab-seminars/blob/main/templates/seminar-template.md)
-- [Seminar AI generation guide](https://github.com/eslab-pnu/lab-seminars/blob/main/templates/seminar-writing-guide.md)
-- [Student GitHub organization guide](https://github.com/eslab-pnu/lab-guidelines/blob/main/github-org-student-guide.md)
-
-## Seminar Note Policy
-
-세미나 노트는 사람이 처음부터 직접 작성하는 문서가 아니라, agent가 발표자료와 관련 논문을 바탕으로 자동 생성한 뒤 사람이 검토하고 보정하는 문서입니다.
-
-- 논문 노트의 기본 구조를 유지합니다.
-- 발표 슬라이드는 논문 내용을 보완하는 근거로 사용합니다.
-- 슬라이드에 없는 구현 조건, 실험 수치, 한계, 외부 코드는 임의로 생성하지 않습니다.
-- Appendix, 추가 실험, 데모, 프로젝트 적용 내용이 있으면 별도 섹션으로 정리합니다.
-- 관련 연구실 repo는 가능하면 `https://github.com/eslab-pnu` 안에서 연결합니다.
-
-## For Students
-
-1. 세미나 발표자료와 관련 논문을 agent에게 제공합니다.
-2. agent는 AI 출력 템플릿과 생성 가이드라인에 따라 세미나 노트 초안을 만듭니다.
-3. 관련 연구 repo가 있으면 노트의 식별 정보에 링크합니다.
-4. 원본 발표자료, 대용량 파일, 민감한 데이터는 GitHub에 직접 올리지 않습니다.
-
-## Main Repositories
-
-- [lab-guidelines](https://github.com/eslab-pnu/lab-guidelines)
-- [lab-seminars](https://github.com/eslab-pnu/lab-seminars)
-
-## Project Repositories
-
-| Repository | Topic |
+| 분야 | 저장소 |
 |---|---|
-| [project-ondevice-slm](https://github.com/eslab-pnu/project-ondevice-slm) | On-device SLM |
-| [project-edge-rag](https://github.com/eslab-pnu/project-edge-rag) | Edge RAG |
-| [project-mcu-npu-benchmark](https://github.com/eslab-pnu/project-mcu-npu-benchmark) | MCU / NPU Benchmark |
-| [project-speech-edge-ai](https://github.com/eslab-pnu/project-speech-edge-ai) | Speech Edge AI |
-| [project-timeseries-anomaly](https://github.com/eslab-pnu/project-timeseries-anomaly) | Time-series Anomaly Detection |
-| [project-industrial-audio-ad](https://github.com/eslab-pnu/project-industrial-audio-ad) | Industrial Audio Anomaly Detection |
-| [project-tiny-vision-models](https://github.com/eslab-pnu/project-tiny-vision-models) | Tiny Vision Models |
-| [project-mmwave-har](https://github.com/eslab-pnu/project-mmwave-har) | mmWave / Radar HAR Baseline |
-| [project-crossmodal-distillation](https://github.com/eslab-pnu/project-crossmodal-distillation) | Cross-modal Distillation |
+| On-device SLM | [project-ondevice-slm](https://github.com/eslab-pnu/project-ondevice-slm) |
+| Edge RAG | [project-edge-rag](https://github.com/eslab-pnu/project-edge-rag) |
+| MCU/NPU benchmark | [project-mcu-npu-benchmark](https://github.com/eslab-pnu/project-mcu-npu-benchmark) |
+| Speech edge AI | [project-speech-edge-ai](https://github.com/eslab-pnu/project-speech-edge-ai) |
+| 시계열 이상탐지 | [project-timeseries-anomaly](https://github.com/eslab-pnu/project-timeseries-anomaly) |
+| 산업 음향 이상탐지 | [project-industrial-audio-ad](https://github.com/eslab-pnu/project-industrial-audio-ad) |
+| 경량 vision model | [project-tiny-vision-models](https://github.com/eslab-pnu/project-tiny-vision-models) |
+| mmWave/Radar HAR | [project-mmwave-har](https://github.com/eslab-pnu/project-mmwave-har) |
+| Cross-modal distillation | [project-crossmodal-distillation](https://github.com/eslab-pnu/project-crossmodal-distillation) |
+| ToF HAR | [project-tof-har](https://github.com/eslab-pnu/project-tof-har) |
 
-## Graduation Thesis
+## 연구실 자료와 운영 안내
 
-| Repository | Purpose |
+| 자료 | 저장소 |
 |---|---|
-| [graduation-thesis](https://github.com/eslab-pnu/graduation-thesis) | 졸업논문 note, 주제별 project repo 매핑, baseline 근거 |
+| 운영 규칙과 작성 템플릿 | [lab-guidelines](https://github.com/eslab-pnu/lab-guidelines) |
+| 세미나 노트와 연구 흐름 | [lab-seminars](https://github.com/eslab-pnu/lab-seminars) |
+| 주간보고 | [lab-weekly-reports](https://github.com/eslab-pnu/lab-weekly-reports) |
+| 회의록과 결정사항 | [lab-meetings](https://github.com/eslab-pnu/lab-meetings) |
+| 공통 코드·스크립트 | [lab-common-tools](https://github.com/eslab-pnu/lab-common-tools) |
+| 교육·세미나 자료 | [lab-education-materials](https://github.com/eslab-pnu/lab-education-materials) |
+| 졸업논문 요약과 연구 연결 | [graduation-thesis](https://github.com/eslab-pnu/graduation-thesis) |
 
-## Personal Research Repositories
+## 자료 작성 원칙
 
-| Repository | Owner | Purpose |
-|---|---|---|
-| [research-yunju](https://github.com/eslab-pnu/research-yunju) | 백윤주 | Personal research topics, supervision notes, experiments |
+세미나 노트는 agent가 발표자료와 관련 논문으로 초안을 생성하고, 사람이 원문·수치·링크를 검토하여 완성한다. 발표자의 추가 해석, 자체 실험과 프로젝트 적용 내용은 근거가 확인된 범위에서 구분하여 기록한다.
+
+GitHub에는 코드, 문서, 실험 설정과 결과 요약을 관리한다. 발표자료 원본, 데이터셋과 대용량 모델은 NAS 또는 Google Drive에 보관하고 공유 가능한 링크를 문서에 기록한다. 운영 문서는 한국어로 작성하며, `korean-writing-style`로 윤문한다.
+
+[세미나 작성 템플릿](https://github.com/eslab-pnu/lab-seminars/blob/main/templates/seminar-template.md) · [생성·검토 지침](https://github.com/eslab-pnu/lab-seminars/blob/main/templates/seminar-writing-guide.md) · [학생용 GitHub 안내](https://github.com/eslab-pnu/lab-guidelines/blob/main/github-org-student-guide.md)
